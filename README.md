@@ -1,5 +1,3 @@
 # git-journey
-first steps here
+first 
 
-
-This is the initial trip to programming
